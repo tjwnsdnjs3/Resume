@@ -17,8 +17,8 @@
 <hr>
 <h2>:raised_hand:관심분야</h2>
 <ul>
-  <li>프런트앤드</li>
-  <li>백앤드</li>
+  <li>프런트엔드</li>
+  <li>백엔드</li>
 </ul>
 <hr>
 <h2>:computer:프로그래밍 언어 스킬</h2>
