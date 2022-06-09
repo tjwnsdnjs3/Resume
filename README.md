@@ -21,4 +21,8 @@
   <li>백앤드</li>
 </ul>
 
+<h2>프로그래밍 언어 스킬</h2>
+1. Java
+2. python
+3. javascript
   
