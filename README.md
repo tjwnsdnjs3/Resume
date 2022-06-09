@@ -47,8 +47,11 @@
 |4|소프트웨어세미나1|
 |5|소프트웨어세미나3|
 
-[github](https://github.com/tjwnsdnjs3)
+<!-- [github](https://github.com/tjwnsdnjs3) -->
 
+
+github address: [S-JW][github]
+[github](https://github.com/tjwnsdnjs3)
 
 
 
