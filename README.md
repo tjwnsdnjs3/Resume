@@ -50,8 +50,7 @@
 github address: [S-JW][github]
 [github]:https://github.com/tjwnsdnjs3
 
-Link: [Google][googlelink]  
-[googlelink]:https://google.com
+github(:https://github.com/tjwnsdnjs3)
 
 
 
