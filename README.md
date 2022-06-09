@@ -22,9 +22,9 @@
 </ul>
 
 <h2>프로그래밍 언어 스킬</h2>
-1. Java
-2. python
-3. javascript
+1. Java <br>
+2. python <br>
+3. javascript <br>
 
 <h2>2021년도 수강 과목(전공 & 복수전공)</h2>
 
