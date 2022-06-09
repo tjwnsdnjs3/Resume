@@ -1,6 +1,7 @@
 # 한림대학교
 
-<h1>인적사항</h1>
+<h2>인적사항</h2>
+<hr>
 <img src=face.png width= 150 height= 150>
 <ul>
   <li>이름</li>
