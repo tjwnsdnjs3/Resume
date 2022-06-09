@@ -1,5 +1,4 @@
 # 한림대학교 
-<hr>
 
 <h2>인적사항</h2>
 <img src=face.png width= 150 height= 150>
