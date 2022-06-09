@@ -47,8 +47,8 @@
 |4|소프트웨어세미나1|
 |5|소프트웨어세미나3|
 
-github:
-[github](https://github.com/tjwnsdnjs3)
+github address:
+[서준원](https://github.com/tjwnsdnjs3)
 
 
 
