@@ -14,18 +14,18 @@
   <li>이메일</li>
   <strong>seojunwon19@naver.com</strong>
 </ul>
-  
+<hr>
 <h2>:raised_hand:관심분야</h2>
 <ul>
   <li>프런트앤드</li>
   <li>백앤드</li>
 </ul>
-
+<hr>
 <h2>:computer:프로그래밍 언어 스킬</h2>
 1. Java <br>
 2. python <br>
 3. javascript <br>
-
+<hr>
 <h2>:page_facing_up:2021년도 수강 과목(전공 & 복수전공)</h2>
 
 |번호|과목|
@@ -35,7 +35,7 @@
 |3|자바프로그래밍1|
 |4|자바프로그래밍2|
 |5|소프트웨어세미나4|
-
+<hr>
 
 <h2>:page_facing_up:2022년도 수강 과목(전공 & 복수전공)</h2>
 
@@ -46,12 +46,14 @@
 |3|소프트웨어개론|
 |4|소프트웨어세미나1|
 |5|소프트웨어세미나3|
+<hr>
 
 <h2>:memo:성적</h2>
 
 |1-1|1-2|
 |:---:|:---:|
 |3.94|3.9|
+<hr>
 
 <h2>:envelope:github adress</h2>
 
