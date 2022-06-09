@@ -1,5 +1,7 @@
 # 한림대학교
 <img src=face.png width= 150 height= 150>
+
+인적사항
 <ul>
   <li>이름</li>
   서준원
