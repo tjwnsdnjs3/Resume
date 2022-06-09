@@ -14,8 +14,7 @@
   <li>이메일</li>
   seojunwon19@naver.com
   <li>github address</li>
-  github address:
-  [서준원](https://github.com/tjwnsdnjs3)
+  github address: [서준원](https://github.com/tjwnsdnjs3)
 </ul>
   
 <h2>관심분야</h2>
@@ -57,7 +56,6 @@
 |3.94|3.9|
 
 
-[서준원](https://github.com/tjwnsdnjs3)
 
 
 
