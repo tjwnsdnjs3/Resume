@@ -51,7 +51,7 @@
 
 
 github address: [S-JW][github]
-[github](https://github.com/tjwnsdnjs3)
+[github] = (https://github.com/tjwnsdnjs3)
 
 
 
