@@ -13,6 +13,9 @@
   콘텐츠IT 전공 / 빅데이터 복수 전공
   <li>이메일</li>
   seojunwon19@naver.com
+  <li>github address</li>
+  github address:
+  [서준원](https://github.com/tjwnsdnjs3)
 </ul>
   
 <h2>관심분야</h2>
@@ -59,8 +62,6 @@
 
 
 
-github address:
-[서준원](https://github.com/tjwnsdnjs3)
 
 
 
